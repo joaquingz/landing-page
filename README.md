@@ -1,2 +1,2 @@
 # landing-page
-First ever landing page using html and css flexbox
+First ever landing page using html and css flexbox using all the things learned at The Odin Project 
